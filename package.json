@@ -2,7 +2,7 @@
   "name": "@pigalle/gateway",
   "version": "0.1.0",
   "description": "A base class for gateways usable by the Pigalle framework.",
-  "main": "lib/index.js",
+  "main": "lib/gateway.js",
   "scripts": {
     "test": "nyc mocha",
     "lint": "node ./node_modules/standard/bin/cmd.js --fix",
